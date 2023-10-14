@@ -26,6 +26,7 @@ const Layout = ({ children, pageName }) => {
     <Fragment>
       <Head>
         <title>AlienHood | {pageName}</title>
+        <link rel="icon" href="/logo2.png" />
       </Head>
       <VideoPopup />
       <div className="neoh_fn_main" data-footer-sticky="">
