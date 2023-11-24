@@ -34,7 +34,7 @@ const KendurnsHero = () => {
               style={{
                 // backgroundImage: `url("img/drops/${active}.jpg")`,
                 // backgroundImage: `url("https://media4.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=6c09b952a9sg8x4q8fnainv33fynw0ksxkk8l8faqdujda4d&ep=v1_gifs_search&rid=giphy.gif&ct=g")`,
-                backgroundImage: `url("https://pbs.twimg.com/profile_banners/1658154772174712850/1695150035/1080x360")`,
+                backgroundImage: `url("https://pbs.twimg.com/media/F-48wiTXgAAJ3zX?format=jpg&name=large")`,
                 backgroundColor: "rgba(0, 0, 0, 0)",
                 backgroundPosition: "center center",
                 backgroundSize: "cover",
