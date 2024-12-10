@@ -33,8 +33,8 @@ const KendurnsHero = () => {
               }`}
               style={{
                 // backgroundImage: `url("img/drops/${active}.jpg")`,
-                // backgroundImage: `url("https://media4.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=6c09b952a9sg8x4q8fnainv33fynw0ksxkk8l8faqdujda4d&ep=v1_gifs_search&rid=giphy.gif&ct=g")`,
-                backgroundImage: `url("https://pbs.twimg.com/media/F7vxcsrWYAAezmG?format=jpg&name=900x900")`,
+                backgroundImage: `url("https://media4.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=6c09b952a9sg8x4q8fnainv33fynw0ksxkk8l8faqdujda4d&ep=v1_gifs_search&rid=giphy.gif&ct=g")`,
+                // backgroundImage: `url("https://pbs.twimg.com/media/F7vxcsrWYAAezmG?format=jpg&name=900x900")`,
                 backgroundColor: "rgba(0, 0, 0, 0)",
                 backgroundPosition: "center center",
                 backgroundSize: "cover",
